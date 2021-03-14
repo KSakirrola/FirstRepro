@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8573" started-at="2021-03-13T23:11:15 EST" finished-at="2021-03-13T23:11:23 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8573" started-at="2021-03-13T23:11:15 EST" finished-at="2021-03-13T23:11:23 EST">
+      <class name="testCases.LoginWithInvalidUser">
+        <test-method status="PASS" signature="initialSetup()[pri:0, instance:testCases.LoginWithInvalidUser@614ddd49]" name="initialSetup" is-config="true" duration-ms="10362" started-at="2021-03-13T23:11:04 EST" finished-at="2021-03-13T23:11:15 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetup -->
+        <test-method status="PASS" signature="testCase3()[pri:0, instance:testCases.LoginWithInvalidUser@614ddd49]" name="testCase3" duration-ms="8507" started-at="2021-03-13T23:11:15 EST" finished-at="2021-03-13T23:11:23 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+      </class> <!-- testCases.LoginWithInvalidUser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
